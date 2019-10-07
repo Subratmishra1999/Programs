@@ -1,6 +1,3 @@
-'''Program to print the level of each node in a binary tree having distinct node values'''
-
-
 class Node: 
     def __init__(self,key): 
         self.left = None
